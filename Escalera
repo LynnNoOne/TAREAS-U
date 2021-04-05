@@ -1,0 +1,16 @@
+/*#include <iostream>
+using namespace std;
+//escalera
+int main() {
+    for(int i=0; i<5; i++){
+        for( int j=0; j<i; j++){
+            cout <<"   ";}
+//con personita
+    if (i==2)
+         cout<<"|_p_\n";
+    else
+         cout << "|__\n";
+    }
+}
+//escalera simple
+//selinne Carlin Mendoza
