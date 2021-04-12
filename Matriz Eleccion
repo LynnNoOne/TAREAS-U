@@ -1,0 +1,52 @@
+#include <iostream>
+using namespace std;
+int main(){
+
+void eleccion(){//Funcion que permite elegir O y X
+ bool X = true;
+ bool O = true;
+ cout<<"Elige entre X o O"<<endl;
+ cin>> >> ;
+}
+
+void iniciar( char matriz[3][3]){//Impresion de la matriz
+{1,2,3},
+{4,5,6},
+{7,8,9}};
+
+cout<<x[0][0]<<x[0][1]<<x[0][2]<<endl;
+cout<<x[1][0]<<x[1][1]<<x[1][2]<<endl;
+cout<<x[2][0]<<x[2][1]<<x[2][2]<<endl;
+
+if (X= true)//Condicion que le da al usuario la opcion de elegir la posicion de su eleccion entre la matriz
+{
+
+for(i=0; i<2; i++);
+    {
+        for(j=0; j<2; j++);
+        {
+            cout<<"Elige la fila y la columna: "<<endl;
+            cin >> matriz[i][j];
+            matriz[i][j]=X
+            cout<<matriz[i][j];
+        }
+    }
+
+}
+if (O=true)
+{
+  for(i=0; i<2; i++);
+    {
+        for(j=0; j<2; j++);
+
+        {
+            cout<<"Elige la fila y la columna: "<<endl;
+            cin >> matriz[i][j];
+            matriz[i][j]=O
+            cout<<matriz[i][j];
+        }
+    }
+}
+}
+
+//Selinne Sandra Carlin Mendoza
