@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
 
-   MotorVehicle motorVehicle( "Cualquiera" );
+   MotorVehicle motorVehicle( "Cualquiera" ,"Toyota",2002);
 
    cout << "Estandar:  ";
 
