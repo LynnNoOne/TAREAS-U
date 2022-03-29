@@ -6,8 +6,10 @@ class MotorVehicle {
 
 public:
 
-   MotorVehicle( string m) {
+   MotorVehicle( string m,string b,int y) {
       setMarca( m );
+      setTipoCombus(b);
+      setAñoFabrica(y);
    }
 
    void setMarca( string m ) {
